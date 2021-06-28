@@ -1442,47 +1442,6 @@ label {
     height: auto
 }
 
-
-/* @media (min-width: 641px) {
-    .hero {
-        text-align: left;
-        padding-top: 160px
-    }
-    .hero-inner {
-        display: flex
-    }
-    .hero-copy {
-        padding-right: 48px;
-        min-width: 512px
-    }
-    .hero-image {
-        padding-right: 48px;
-        min-width: 600px;
-    }
-    .hero-form {
-        margin: 0
-    }
-    .hero-illustration {
-        margin-top: -143px;
-        padding-bottom: 0
-    }
-    .hero-shape {
-        display: block
-    }
-    .hero-shape-1 {
-        left: -32px;
-        top: 542px
-    }
-    .hero-shape-2 {
-        left: -733px;
-        top: 538px
-    }
-    .hero-main-shape svg {
-        width: auto;
-        height: 647px
-    }
-} */
-
 @media (min-width: 1000px) {
     .hero-copy {
         padding-right: 48px;
